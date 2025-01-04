@@ -10,6 +10,8 @@ information and tools, the World Bank will also develop research on the correlat
 between countries’ sustainability performance and the risk and return profiles of
 relevant investments.
 
+Tools & Technologies used: Tableau Desktop, SQL, Excel
+
 Task:
 
 Create an Interactive Dashboard for ESG Data by Country
